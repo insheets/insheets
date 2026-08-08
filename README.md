@@ -1,16 +1,46 @@
-## Hi there 👋
+```text
+⚡ What I Do
+📊 DATA ANALYSIS        ████████████████████
+📈 DASHBOARDS           ███████████████████░
+🎨 DATA VISUALIZATION   ██████████████████░░
+⚙️ VBA AUTOMATION       █████████████████░░░
+📗 EXCEL                ████████████████████
+🔄 POWER QUERY          ████████████████░░░░
+```
 
-<!--
-**insheets/insheets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```test
+📈 I Like Building
+        ┌───────────────┐
+        │   📥 DATA     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   🧹 CLEAN    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   🔎 ANALYZE  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ 📊 VISUALIZE  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   💡 INSIGHT  │
+        └───────────────┘
+```
 
-Here are some ideas to get you started:
+```text
+🎯 My Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Make complex data simple enough to understand at a glance.
+```
+
+
+```bash
+📌 Interests
+
+Data Analytics Excel VBA Dashboards
+Data Visualization Power BI SQL Automation
+```
